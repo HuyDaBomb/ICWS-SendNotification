@@ -1,0 +1,19 @@
+/* *{
+    margin:0;
+    padding:0;
+    
+} */
+html, body{
+    height:99%;
+    
+}
+
+#login  {
+    position: relative;
+    width: 25%;
+}
+
+
+@media(max-width:568px){
+    .navbar-nav{display: none}
+}
